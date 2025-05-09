@@ -6,7 +6,7 @@ A machine learning-powered web application built using **Streamlit** to assess t
 
 ## 🚀 Live App
 
-Try the live app here: [Streamlit Cloud Link](https://.streamlit.app)  
+Try the live app here: [Streamlit Cloud Link](https://diabetes-risk-checker.streamlit.app)  
 *(Replace with your actual Streamlit app URL after deployment)*
 
 ---
